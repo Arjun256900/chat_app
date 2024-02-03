@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "379983126269",
+    "project_id": "stay-in-touch-4d886",
+    "storage_bucket": "stay-in-touch-4d886.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379983126269:android:aa311425fc5eade1866894",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwRjjeQgVFMsnQSjd3ZAHiHGKaInJslU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
